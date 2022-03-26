@@ -1,5 +1,5 @@
-- أفتح الملف في جافا
-- فيه كلاسين ( Server - Player) هم المهمين
-- اول شيء روح عند كلاس server و اعمل له run
-- بعدها روح عند كلاس player و اعمل له run مرتين, وقتها بتشتغل اللعبه بين لاعبين
-- استمتع :)
+- Open the files in Java
+- Among the classes there are two classes one called Server and other called Player
+- Run the Server Class
+- Run the Player Class twice
+- Enjoy the Game :D

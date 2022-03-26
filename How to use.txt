@@ -1,4 +1,4 @@
-- Open the files in Java
+- Open the files in Java (We used Netbeans platform to program it so it is preferable if you used it too)
 - Among the classes there are two classes one called Server and other called Player
 - Run the Server Class
 - Run the Player Class twice
